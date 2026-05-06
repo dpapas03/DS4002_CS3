@@ -24,7 +24,9 @@ Below is an outline of this repository and its contents:
 │  │  ├─ Commercial electricity sales have soared in Virginia, driven by data centers - U.S. Energy                 Information Administration (EIA).pdf
 │  └─ └─ Weather-related Power Outages Rising - Climate Central.pdf
 ├─ LICENSE.md
-└─ README.md
+├─ README.md
+├─ Case Study 3 Hook Document.pdf
+└─ Case Study 3 Rubric.pdf
 </code></pre>
 
 ## License

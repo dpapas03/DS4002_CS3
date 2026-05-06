@@ -5,7 +5,7 @@
 ## Repository Overview
 This repository contains all the instructions and materials necessary to engage in an exciting case study into Virginia's electrical grid. 
 
-The brief to the case study and rubric instructions can be found on the top level directory of this directory. Necessary data and a helpful appendix are included in the `DATA` folder, and helpful explanatory materials are included in the `Reference Materials` folder.
+The brief to the case study and rubric instructions can be found on the top level directory of this repository. Necessary data and a helpful appendix are included in the `DATA` folder, and helpful explanatory materials are included in the `Reference Materials` folder.
 
 ## Repository Map
 Below is an outline of this repository and its contents:
